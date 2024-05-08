@@ -7,7 +7,6 @@ Hello! My name is Luiz Hélio, I'm a ADS-Faesa student in Brazil, and I'm curren
 - 💻 Software Development: I have experience in Python, and I'm always exploring new technologies.
 - 🌐 I’m currently learning Java, SQL and Python.
 - 📊 Data Science: I'm interested in data analysis, machine learning Web Development and reserch in AI.
-- 📝 Technical Writing: I share my knowledge through articles and tutorials on [platforms].
 
 ## Where to Find Me
 - 💼 LinkedIn: [Luiz Hélio Fim Filho](https://www.linkedin.com/in/luiz-h%C3%A9lio-fim-filho-24453528b)
@@ -23,14 +22,6 @@ Hello! My name is Luiz Hélio, I'm a ADS-Faesa student in Brazil, and I'm curren
 
 ## Contributions
 [![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=LuizHelio-Fim&theme=dark)](https://github.com/LuizHelio-Fim)
-
-## Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](link) in [Repository Name](link)
-2. 💼 Opened issue [#9](link) in [Repository Name](link)
-3. 📝 Published article on [Topic] in [Platform](link)
-4. ⭐️ Starred [Repository Name](link)
-<!--END_SECTION:activity-->
 
 ## Contributions
 If you'd like to contribute to any of my projects, feel free to open an issue or submit a pull request!
