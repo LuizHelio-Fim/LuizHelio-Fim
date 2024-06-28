@@ -14,16 +14,12 @@ Hello! My name is Luiz Hélio, I'm a ADS-Faesa student in Brazil, and I'm curren
 - 🌐 Personal Website: Working on it.
 - 📫 My email: luizhelio.fim@outlook.com.
 
-## Top Languages and Stats
+## Top Languages and Contributions
 <div>
 <a href= "https://github.com/LuizHelio-Fim">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHelio-Fim&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHelio-Fim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizHelio-Fim&theme=dracula"/>
 </div>
-
-
-## Contributions
-[![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=LuizHelio-Fim&theme=dark)](https://github.com/LuizHelio-Fim)
 
 ## Contributions
 If you'd like to contribute to any of my projects, feel free to open an issue or submit a pull request!
