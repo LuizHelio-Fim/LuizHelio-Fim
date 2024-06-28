@@ -16,8 +16,9 @@ Hello! My name is Luiz Hélio, I'm a ADS-Faesa student in Brazil, and I'm curren
 
 ## Top Languages and Contributions
 <div>
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHelio-Fim&layout=compact&theme=dark)](https://github.com/LuizHelio-Fim)
-  [![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=LuizHelio-Fim&theme=dark)](https://github.com/LuizHelio-Fim)
+<a href="https://github.com/LuizHelio-Fim">
+<img height = "180em" src="[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHelio-Fim&layout=compact&theme=dark)](https://github.com/LuizHelio-Fim)">
+<img height = "180em" src="[![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=LuizHelio-Fim&theme=dark)](https://github.com/LuizHelio-Fim)">
 <div>
 
 ## Contributions
