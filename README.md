@@ -14,12 +14,16 @@ Hello! My name is Luiz Hélio, I'm a ADS-Faesa student in Brazil, and I'm curren
 - 🌐 Personal Website: Working on it.
 - 📫 My email: luizhelio.fim@outlook.com.
 
-## Top Languages and Contributions
+## Top Languages and Stats
 <div>
-<a href="https://github.com/LuizHelio-Fim">
-<img height = "180em" src="[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHelio-Fim&layout=compact&theme=dark)](https://github.com/LuizHelio-Fim)">
-<img height = "180em" src="[![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=LuizHelio-Fim&theme=dark)](https://github.com/LuizHelio-Fim)">
-<div>
+<a href= "https://github.com/LuizHelio-Fim">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHelio-Fim&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHelio-Fim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+## Contributions
+[![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=LuizHelio-Fim&theme=dark)](https://github.com/LuizHelio-Fim)
 
 ## Contributions
 If you'd like to contribute to any of my projects, feel free to open an issue or submit a pull request!
@@ -27,3 +31,5 @@ If you'd like to contribute to any of my projects, feel free to open an issue or
 I hope you find something useful here. Feel free to explore my repositories and get in touch if you have any questions or suggestions.
 
 Thanks for visiting! 😊
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHelio-Fim&layout=compact&theme=dark)](https://github.com/LuizHelio-Fim)
