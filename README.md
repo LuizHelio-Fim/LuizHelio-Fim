@@ -27,5 +27,3 @@ If you'd like to contribute to any of my projects, feel free to open an issue or
 I hope you find something useful here. Feel free to explore my repositories and get in touch if you have any questions or suggestions.
 
 Thanks for visiting! 😊
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHelio-Fim&layout=compact&theme=dark)](https://github.com/LuizHelio-Fim)
