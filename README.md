@@ -5,7 +5,7 @@ Hello! My name is Luiz Hélio, I'm a ADS-Faesa student in Brazil, and I'm curren
 
 ## What I Do
 - 💻 Software Development: I have experience in Python, Java, and I'm always exploring new technologies.
-- 🌐 I’m currently learning Power Plataform.
+- 🌐 I’m currently learning API REST and Spring Boot.
 - 📊 I'm interested in data analysis, machine learning, BackEnd Development and reserch in AI.
 
 ## Where to Find Me
