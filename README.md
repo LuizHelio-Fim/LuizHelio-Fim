@@ -25,4 +25,4 @@ If you'd like to contribute to any of my projects, feel free to open an issue or
 
 I hope you find something useful here. Feel free to explore my repositories and get in touch if you have any questions or suggestions.
 
-Thanks for visiting! 😊
+Thanks for visiting! 
