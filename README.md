@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 
 ## About Me
-Hello! My name is Luiz Hélio, I'm a ADS/CC-Faesa student in Brazil, and I'm currently in my fifth quarter.
+Hello! My name is Luiz Hélio, I'm a software analyst and Statistics/Data Sciente student at Brazil.
 
 ## What I Do
 - 💻 Software Development: I have experience in Python, Java, and I'm always exploring new technologies.
