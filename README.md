@@ -5,7 +5,7 @@ Hello! My name is Luiz Hélio, I'm a software analyst and Statistics/Data Scient
 
 ## What I Do
 - 💻 Software Development: I have experience in Python, Java, and I'm always exploring new technologies.
-- 🌐 I’m currently learning Linear Algebra.
+- 🌐 I’m currently learning Pygame.
 - 📊 I'm interested in data science, machine learning and reserch in AI.
 
 ## Where to Find Me
